@@ -1,0 +1,9 @@
+/finalprj/
+/data/
+/.ipynb_checkpoints/
+/__pycache__/
+
+Aspect\ classification.ipynb 
+aspect-classification.pickle
+tfidf-vectorizer.pickle
+bert_capsnet.pth
